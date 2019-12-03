@@ -1,0 +1,17 @@
+int pont;
+int statusJogo;
+void carregaTexturas();
+void desenhaSprite(float coluna,float linha, GLuint tex);
+void desenhaJogo(int matriz[10][20]);
+void movimenta_esquerda();
+void movimenta_baixo();
+void movimenta_cima();
+void movimenta_direita();
+void troca();
+void vizinho();
+void apaga();
+void muda();
+void gravidade();
+void subir();
+void desenhaDerrota();
+void desenhaInicio();

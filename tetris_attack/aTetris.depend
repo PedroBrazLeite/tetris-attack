@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1574686004 source:c:\users\user\downloads\atetris\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/gl.h>
+	<time.h>
+	"SOIL.h"
+	"func.h"
+
+1574686398 c:\users\user\downloads\atetris\func.h
+
+1574686383 source:c:\users\user\downloads\atetris\func.c
+	<gl/gl.h>
+	<stdio.h>
+	"SOIL.h"
+	"func.h"
+
+1574452733 c:\users\user\downloads\atetris\soil.h
+
+1575311432 source:c:\users\pedro\onedrive\햞ea de trabalho\atetris\func.c
+	<gl/gl.h>
+	<stdio.h>
+	"SOIL.h"
+	"func.h"
+
+1574452734 c:\users\pedro\onedrive\햞ea de trabalho\atetris\soil.h
+
+1575290422 c:\users\pedro\onedrive\햞ea de trabalho\atetris\func.h
+
+1575309270 source:c:\users\pedro\onedrive\햞ea de trabalho\atetris\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/gl.h>
+	<time.h>
+	"SOIL.h"
+	"func.h"
+
+1575319666 source:c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack\func.c
+	<gl/gl.h>
+	<stdio.h>
+	"SOIL.h"
+	"func.h"
+	<time.h>
+
+1574452734 c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack\soil.h
+
+1575290422 c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack\func.h
+
+1575319666 source:c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/gl.h>
+	<time.h>
+	"SOIL.h"
+	"func.h"
+
+1575334597 source:c:\users\davis\downloads\tetris_atack2-20191203t001855z-001\tetris_atack2\func.c
+	<gl/gl.h>
+	<stdio.h>
+	"SOIL.h"
+	"func.h"
+	<time.h>
+
+1575332422 c:\users\davis\downloads\tetris_atack2-20191203t001855z-001\tetris_atack2\soil.h
+
+1575334064 c:\users\davis\downloads\tetris_atack2-20191203t001855z-001\tetris_atack2\func.h
+
+1575334099 source:c:\users\davis\downloads\tetris_atack2-20191203t001855z-001\tetris_atack2\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/gl.h>
+	<time.h>
+	"SOIL.h"
+	"func.h"
+
+1575380323 source:c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack2-20191203t001855z-001\tetris_atack2\func.c
+	<gl/gl.h>
+	<stdio.h>
+	"SOIL.h"
+	"func.h"
+	<time.h>
+
+1575332424 c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack2-20191203t001855z-001\tetris_atack2\soil.h
+
+1575334066 c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack2-20191203t001855z-001\tetris_atack2\func.h
+
+1575380349 source:c:\users\pedro\onedrive\햞ea de trabalho\tetris_atack2-20191203t001855z-001\tetris_atack2\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/gl.h>
+	<time.h>
+	"SOIL.h"
+	"func.h"
+
